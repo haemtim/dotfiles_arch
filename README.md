@@ -5,4 +5,4 @@ dotfiles for arch / endeavouros / i3
 
 # polybar
 
-#zsh
+# zsh
