@@ -1,4 +1,5 @@
 ![](home.png)
+![](rofi.png)
 
 # About
 Color scheme used: https://www.nordtheme.com/
