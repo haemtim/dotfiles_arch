@@ -1,4 +1,4 @@
-![]{home.png}
+![](home.png)
 
 # About
 Color scheme used: https://www.nordtheme.com/
